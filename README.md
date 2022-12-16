@@ -1,0 +1,5 @@
+# PortfolioProjects
+This repository is a reference to my projects 
+Webscraping-Used Beautiful soup library in jypiter notebook 
+Python correlation project- Used Pandas, Seaborne, Matplotlib to correlate varibles
+Covid project-Used SSMS to clean data using SQL and exported the data into excel 
