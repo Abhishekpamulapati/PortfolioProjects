@@ -1,5 +1,16 @@
-# PortfolioProjects
-This repository is a reference to my project.
-Webscraping-Used Beautiful soup library in jypiter notebook.
-Python correlation project- Used Pandas, Seaborne, Matplotlib to correlate varibles.
-Covid project-Used SSMS(created a database, and tables for infections, vaccinations) to clean data using SQL and exported the data into excel. 
+
+# Portfolio Projects
+This repository is reference to my projects. Projects in this are
+ Webscraping, 
+ Python correlation project,
+ and Covid project
+
+
+## Languages and tools
+Languages used in this repository are SQL-SSMS, Python- Pandas, Numpy, Matplotlib, Beautiful Soup
+
+
+## 🚀 About Me
+I'm a Data Analyst who has experience in Data Engineering with Cloud platforms Like Azure, and Aws. 
+Skills include: Azure(ADF, Synapse, Databricks,Storage accounts,security), AWS(Glue, Redshift,Quicksight,IAM),SQL,ETL,Python, PowerBI, Office 365.
+
