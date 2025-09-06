@@ -17,7 +17,7 @@ This repository is reference to my projects. Projects in this are
 
 
 ## Languages and tools
-Languages used in this repository are SQL-SSMS,Apache PySpark, Python - Libraries:- Pandas, Numpy, Matplotlib, Beautiful Soup,Requests,Dotenv,Json, Pygame
+Languages used in this repository are SQL-SSMS,Apache PySpark, Python - Libraries:- Pandas, Numpy, Matplotlib, Beautiful Soup,Requests,Dotenv,Json, Pygame, Sys, os, random
 
 
 ## 🚀 About Me
