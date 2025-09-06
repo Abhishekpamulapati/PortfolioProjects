@@ -15,12 +15,11 @@ This repository is reference to my projects. Projects in this are
  
  PySpark - This project is about cleaning rating csv dataset and defining schemas and testing the pipelines
 
-
 ## Languages and tools
-Languages used in this repository are SQL-SSMS,Apache PySpark, Python - Libraries:- Pandas, Numpy, Matplotlib, Beautiful Soup,Requests,Dotenv,Json, Pygame
+Languages used in this repository are SQL-SSMS,Visual Studio Code,Visual Studio for SSIS,Apache PySpark, Python
 
+ Libraries:- Pandas, Numpy, Matplotlib, Beautiful Soup,Requests,Dotenv,Json, Pygame
 
 ## 🚀 About Me
-I'm a Data Analyst who has experience in Data Engineering with Cloud platforms Like Azure, and Aws. Azure Certified Data Engineer Dp-203, Databricks Data Engineer Associate
-Skills include: Azure(ADF, Synapse, Databricks,Storage accounts,security), AWS(Glue, Redshift,Quicksight,IAM),SQL,ETL,Python,Pyspark, PowerBI, Office 365.
-
+I'm an Analytics Engineer experience with Cloud platforms Like Azure, and Aws. Azure Certified Data Engineer Dp-203, Databricks Data Engineer Associate
+Skills include: Azure(ADF, Synapse, Databricks,Storage accounts,security, Fabric), AWS(Glue, Redshift,Quicksight,IAM, Cloudformation,EC2),SQL,ETL,Python,Pyspark, PowerBI, Tableau
