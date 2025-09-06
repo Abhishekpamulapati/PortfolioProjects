@@ -6,11 +6,12 @@ This repository is reference to my projects. Projects in this are
  Covid project,
  Skip the dishes - It is a SQL project trying to identify the data to better understand its customer base, 
  VR Fitness - It is a marketing project to understand the customer sales for better targetting, 
+ SpotifyAPI - This project about batch processing the API data from a spotify Web App,
  PySpark - This project is about cleaning rating csv dataset and defining schemas and testing the pipelines.  
 
 
 ## Languages and tools
-Languages used in this repository are SQL-SSMS, Python- Pandas, Numpy, Matplotlib, Beautiful Soup,Apache PySpark
+Languages used in this repository are SQL-SSMS,Apache PySpark, Python - Libraries:- Pandas, Numpy, Matplotlib, Beautiful Soup,Requests
 
 
 ## 🚀 About Me
