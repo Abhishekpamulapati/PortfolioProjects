@@ -19,6 +19,8 @@ This repository is reference to my projects. Projects in this are
 
  Fast Queries on CSV - This project reads laptop_prices CSV datasets and develops multiple custom function and optimizes them and the makes analysis on it 
 
+ And many more!!
+
 ## Languages and tools
 Languages used in this repository are SQL-SSMS,Visual Studio Code,Visual Studio for SSIS,Apache PySpark, Python
 
