@@ -13,7 +13,7 @@ This repository is reference to my projects. Projects in this are
  
  SpotifyAPI - This project about batch processing the API data from a spotify Web App
  
- PySpark - This project is about cleaning rating csv dataset and defining schemas and testing the pipelines
+ PySpark - This project is about cleaning rating csv dataset and defining schemas and testing the pipelines. There are multiple small projects which has mini transformation projects using pyspark on structured data, and unstructured data (text based). 
 
  Sorting Algorithms - This project is about various algorthims techniques in python 
 
