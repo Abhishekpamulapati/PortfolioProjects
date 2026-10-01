@@ -22,9 +22,9 @@ This repository is reference to my projects. Projects in this are
  And many more!!
 
 ## Languages and tools
-Languages used in this repository are SQL-SSMS,Visual Studio Code,Visual Studio for SSIS,Apache PySpark, Python
+Languages used in this repository are SQL-SSMS,Visual Studio Code,Visual Studio for SSIS,Apache PySpark, Python, Databricks
 
- Libraries:- Pandas, Numpy, Matplotlib, Beautiful Soup,Requests,Dotenv,Json, Pygame
+ Libraries:- Pandas, Numpy, Matplotlib, Beautiful Soup,Requests,Dotenv,Json, Pygame, ai_query (LLMbased) within databricks
 
 ## 🚀 About Me
 I'm an Analytics Engineer experience with Cloud platforms Like Azure, and Aws. Azure Certified Data Engineer Dp-203, Databricks Data Engineer Associate
